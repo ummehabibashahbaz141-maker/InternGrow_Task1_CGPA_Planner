@@ -84,3 +84,9 @@ Structuring large programs using vectors and functions
 
 ⭐Note
 If you like this project, feel free to star the repository!
+
+## 📸 Project Output
+
+Here is the sample output of the project:
+
+![CGPA Output](output.png)
